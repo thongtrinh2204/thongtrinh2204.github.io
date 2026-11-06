@@ -1,0 +1,8 @@
+title: "thongtrinh2204 · Dev tool reviews"
+description: "Research-based reviews of open-source tools, GitHub projects and AI agents."
+theme: minima
+permalink: /:year/:month/:day/:title/
+timezone: UTC
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
